@@ -1,5 +1,7 @@
 # Start here
 ssh as auser/buser/cuser using the football key
+ssh -i football auser@vps387343.ovh.net
+
 $ sudo su -
 
 # salt config:
